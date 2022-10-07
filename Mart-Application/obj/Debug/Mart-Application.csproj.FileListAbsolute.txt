@@ -1,0 +1,22 @@
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\bin\Debug\Mart-Application.exe.config
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\bin\Debug\Mart-Application.exe
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\bin\Debug\Mart-Application.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.AssemblyReference.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.SuggestedBindingRedirects.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart_Application.Form1.resources
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart_Application.Properties.Resources.resources
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.GenerateResource.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.CoreCompileInputs.cache
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart-Application.exe
+D:\University Work\Visual Porgramming\Lab Tasks\PRACTICE\Mart-Application\Mart-Application\obj\Debug\Mart-Application.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\bin\Debug\Mart-Application.exe.config
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\bin\Debug\Mart-Application.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\bin\Debug\Mart-Application.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.AssemblyReference.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.SuggestedBindingRedirects.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart_Application.Form1.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart_Application.Properties.Resources.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.GenerateResource.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart-Application.csproj.CoreCompileInputs.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart-Application.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 3\Mart-Application\Mart-Application\obj\Debug\Mart-Application.pdb
